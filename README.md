@@ -10,9 +10,11 @@ OS系统：Windows10
 
 Browser浏览器：Chrome
 
-框架：WebGL Three.js（GAMES202官方提供作业框架）
+框架：WebGL(OpenGL ES) Three.js（GAMES202官方提供作业框架）
 
 编辑器：VSCode
+
+编程语言：javascript、glsl
 
 ## 项目部分图像展示（详情见src目录）
 
