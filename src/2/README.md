@@ -53,5 +53,77 @@ Browser浏览器：Chrome
   <img src="https://github.com/mofashaoye/GAMES202/blob/main/src/2/images/GraceCathedral/0.png" height = 270></img>
    <img src="https://github.com/mofashaoye/GAMES202/blob/main/src/2/images/Indoor/0.png" height = 270></img>
     <img src="https://github.com/mofashaoye/GAMES202/blob/main/src/2/images/Skybox/0.png" height = 270></img>
-     <img src="https://github.com/mofashaoye/GAMES202/blob/main/src/2/images/Skybox2/0.png" height = 270></img>
+</div>
+
+### 左侧前方展示
+
+<div align="center">
+  <img src="https://github.com/mofashaoye/GAMES202/blob/main/src/2/images/CornellBox/1.png" height = 270></img>
+  <img src="https://github.com/mofashaoye/GAMES202/blob/main/src/2/images/GraceCathedral/1.png" height = 270></img>
+   <img src="https://github.com/mofashaoye/GAMES202/blob/main/src/2/images/Indoor/1.png" height = 270></img>
+    <img src="https://github.com/mofashaoye/GAMES202/blob/main/src/2/images/Skybox/1.png" height = 270></img>
+</div>
+
+### 正面展示
+
+<div align="center">
+  <img src="https://github.com/mofashaoye/GAMES202/blob/main/src/2/images/CornellBox/2.png" height = 270></img>
+  <img src="https://github.com/mofashaoye/GAMES202/blob/main/src/2/images/GraceCathedral/2.png" height = 270></img>
+   <img src="https://github.com/mofashaoye/GAMES202/blob/main/src/2/images/Indoor/2.png" height = 270></img>
+    <img src="https://github.com/mofashaoye/GAMES202/blob/main/src/2/images/Skybox/2.png" height = 270></img>
+</div>
+
+### 背面展示
+
+<div align="center">
+  <img src="https://github.com/mofashaoye/GAMES202/blob/main/src/2/images/CornellBox/3.png" height = 270></img>
+  <img src="https://github.com/mofashaoye/GAMES202/blob/main/src/2/images/GraceCathedral/3.png" height = 270></img>
+   <img src="https://github.com/mofashaoye/GAMES202/blob/main/src/2/images/Indoor/3.png" height = 270></img>
+    <img src="https://github.com/mofashaoye/GAMES202/blob/main/src/2/images/Skybox/3.png" height = 270></img>
+</div>
+
+### CornellBox
+
+<div align="center">
+  <img src="https://github.com/mofashaoye/GAMES202/blob/main/src/2/images/CornellBox/0.png" height = 270></img>
+  <img src="https://github.com/mofashaoye/GAMES202/blob/main/src/2/images/CornellBox/1.png" height = 270></img>
+   <img src="https://github.com/mofashaoye/GAMES202/blob/main/src/2/images/CornellBox/2.png" height = 270></img>
+    <img src="https://github.com/mofashaoye/GAMES202/blob/main/src/2/images/CornellBox/3.png" height = 270></img>
+</div>
+
+### GraceCathedral
+
+<div align="center">
+  <img src="https://github.com/mofashaoye/GAMES202/blob/main/src/2/images/GraceCathedral/0.png" height = 270></img>
+  <img src="https://github.com/mofashaoye/GAMES202/blob/main/src/2/images/GraceCathedral/1.png" height = 270></img>
+   <img src="https://github.com/mofashaoye/GAMES202/blob/main/src/2/images/GraceCathedral/2.png" height = 270></img>
+    <img src="https://github.com/mofashaoye/GAMES202/blob/main/src/2/images/GraceCathedral/3.png" height = 270></img>
+</div>
+
+### Indoor
+
+<div align="center">
+  <img src="https://github.com/mofashaoye/GAMES202/blob/main/src/2/images/Indoor/0.png" height = 270></img>
+  <img src="https://github.com/mofashaoye/GAMES202/blob/main/src/2/images/Indoor/1.png" height = 270></img>
+   <img src="https://github.com/mofashaoye/GAMES202/blob/main/src/2/images/Indoor/2.png" height = 270></img>
+    <img src="https://github.com/mofashaoye/GAMES202/blob/main/src/2/images/Indoor/3.png" height = 270></img>
+</div>
+
+### Skybox
+
+<div align="center">
+  <img src="https://github.com/mofashaoye/GAMES202/blob/main/src/2/images/Skybox/0.png" height = 270></img>
+  <img src="https://github.com/mofashaoye/GAMES202/blob/main/src/2/images/Skybox/1.png" height = 270></img>
+   <img src="https://github.com/mofashaoye/GAMES202/blob/main/src/2/images/Skybox/2.png" height = 270></img>
+    <img src="https://github.com/mofashaoye/GAMES202/blob/main/src/2/images/Skybox/3.png" height = 270></img>
+</div>
+
+
+### Skybox2
+
+<div align="center">
+  <img src="https://github.com/mofashaoye/GAMES202/blob/main/src/2/images/Skybox2/0.png" height = 270></img>
+  <img src="https://github.com/mofashaoye/GAMES202/blob/main/src/2/images/Skybox2/1.png" height = 270></img>
+   <img src="https://github.com/mofashaoye/GAMES202/blob/main/src/2/images/Skybox2/2.png" height = 270></img>
+    <img src="https://github.com/mofashaoye/GAMES202/blob/main/src/2/images/Skybox2/3.png" height = 270></img>
 </div>
