@@ -22,7 +22,7 @@ Browser浏览器：Chrome
 
 ## 说明
 
-该项目实现了材质为diffuse unshadowed和diffuse shadowed的PRT预计算，渲染Shader采用了Light项球谐系数、Light Transport项球鞋系数计算渲染方程，同时使用了纹理贴图
+该项目实现了材质为diffuse unshadowed和diffuse shadowed的PRT预计算，渲染Shader采用了Light项球谐系数、Light Transport项球谐系数计算渲染方程，同时使用了纹理贴图
 
 ## 图像展示
 
