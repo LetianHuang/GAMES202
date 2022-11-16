@@ -1,1 +1,1 @@
-# 2
+# 作业 2: Precomputed Radiance Transfer
