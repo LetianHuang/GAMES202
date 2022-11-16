@@ -6,15 +6,15 @@ GAMES202作业，仅供参考！
 
 ## 环境与配置
 
-OS系统：Windows10
+OS系统：Windows10、WSL2(Ubuntu 22.04.1 LTS)
 
 Browser浏览器：Chrome
 
-框架：WebGL(OpenGL ES) Three.js（GAMES202官方提供作业框架）
+框架：WebGL(OpenGL ES) Three.js Eigen等（GAMES202官方提供作业框架）
 
 编辑器：VSCode
 
-编程语言：javascript、glsl
+编程语言：javascript、glsl、cpp等
 
 ## 项目部分图像展示（详情见src目录）
 
