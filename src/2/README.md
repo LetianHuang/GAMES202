@@ -46,3 +46,12 @@ Browser浏览器：Chrome
 
 <img src="https://github.com/mofashaoye/GAMES202/blob/main/src/2/images/Skybox2/x.png"></img>
 
+### 右侧前方展示
+
+<div align="center">
+  <img src="https://github.com/mofashaoye/GAMES202/blob/main/src/2/images/CornellBox/0.png" height = 270></img>
+  <img src="https://github.com/mofashaoye/GAMES202/blob/main/src/2/images/GraceCathedral/0.png" height = 270></img>
+   <img src="https://github.com/mofashaoye/GAMES202/blob/main/src/2/images/Indoor/0.png" height = 270></img>
+    <img src="https://github.com/mofashaoye/GAMES202/blob/main/src/2/images/Skybox/0.png" height = 270></img>
+     <img src="https://github.com/mofashaoye/GAMES202/blob/main/src/2/images/Skybox2/0.png" height = 270></img>
+</div>
