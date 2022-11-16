@@ -26,16 +26,6 @@ Browser浏览器：Chrome
 
 <img src="https://github.com/mofashaoye/GAMES202/blob/main/src/2/images/CornellBox/x.png"></img>
 
-<img src="https://github.com/mofashaoye/GAMES202/blob/main/src/2/images/Skybox2/x.png"></img>
-
-<div align="center">
-  <img src="https://github.com/mofashaoye/GAMES202/blob/main/src/2/images/GraceCathedral/0.png" height = 270></img>
-  <img src="https://github.com/mofashaoye/GAMES202/blob/main/src/2/images/GraceCathedral/1.png" height = 270></img>
-   <img src="https://github.com/mofashaoye/GAMES202/blob/main/src/2/images/GraceCathedral/2.png" height = 270></img>
-    <img src="https://github.com/mofashaoye/GAMES202/blob/main/src/2/images/GraceCathedral/3.png" height = 270></img>
-</div>
-
-
 <div align="center">
   <img src="https://github.com/mofashaoye/GAMES202/blob/main/src/2/images/CornellBox/0.png" height = 270></img>
   <img src="https://github.com/mofashaoye/GAMES202/blob/main/src/2/images/GraceCathedral/0.png" height = 270></img>
