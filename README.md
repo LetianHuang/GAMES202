@@ -34,3 +34,10 @@ Browser浏览器：Chrome
    <img src="https://github.com/mofashaoye/GAMES202/blob/main/src/2/images/Indoor/2.png" width = 50%></img><img src="https://github.com/mofashaoye/GAMES202/blob/main/src/2/images/Skybox/2.png" width = 50%></img>
    </div>
 
+### Screen Space Ray Tracing (SSRT)
+
+<img src="https://github.com/mofashaoye/GAMES202/blob/main/src/3/images/cube_specularSSR_test_0.png"></img>
+
+<div align="center">
+<img src="https://github.com/mofashaoye/GAMES202/blob/main/src/3/images/cube_diffuseSSR_show.png" width = 50%></img><img src="https://github.com/mofashaoye/GAMES202/blob/main/src/3/images/cave_diffuseSSR_show2.png" width = 50%></img>
+</div>
